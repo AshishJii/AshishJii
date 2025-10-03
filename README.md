@@ -26,7 +26,7 @@
         <ul>
             <li>🔭 <b>I’m currently working on</b>: Event Management Application</li>
             <li>
-                👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AshishJii/ErpSnap">ErpSnap</a>
+                👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AshishJii/ErpSense">ErpSense</a>
             </li>
             <li>🌱 <b>I’m currently learning</b>: Java SpringBoot, System Design</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
