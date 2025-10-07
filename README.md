@@ -24,12 +24,11 @@
         </p>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: Event Management Application</li>
             <li>
-                👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AshishJii/ErpSense">ErpSense</a>
+                👯 <b>I’m currently working and looking to collaborate on</b>: <a href="https://github.com/AshishJii/ErpSense">ErpSense</a>
             </li>
-            <li>🌱 <b>I’m currently learning</b>: Java SpringBoot, System Design</li>
-            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
+            <li>🌱 <b>I’m currently learning</b>: System Design, Cloud Infrastructure, Java Spring boot</li>
+            <li>🤔 <b>I’m currently open for</b>Job opportunities and Open Source Projects.</li>
             <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://ashishji.is-a.dev/">My Portfolio</a>.</li>
             <li>⚡ Hot Take: <b>College teaches you everything except the stuff you're actually paying for—academics. </b>.</li>
         </ul>
