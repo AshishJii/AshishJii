@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://github.com/AshishJii">
-    <img src="https://avatars.githubusercontent.com/u/88656163" height="180" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ashish+Verma;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast" />
 </div>
 
