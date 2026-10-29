@@ -121,7 +121,7 @@ About_Me = [
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishJii&theme=github-dark-blue&hide_border=true&background=00000000" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=AshishJii&theme=github-dark&hide_border=true&mode=weekly&hide_longest_streak=true" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api?username=AshishJii&hide_rank=false&custom_title=How%20Did%20We%20Get%20Here%3F&include_all_commits=true&theme=dark_github&hide_border=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" />
 </div>
 
