@@ -125,19 +125,10 @@ About_Me = [
   <img src="https://github-stats-extended.vercel.app/api?username=AshishJii&hide_rank=false&custom_title=How%20Did%20We%20Get%20Here%3F&include_all_commits=true&theme=dark_github&hide_border=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishJii&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
-</div>
-
 ---
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshishJii&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishJii&theme=github-dark&hide_border=true&bg_color=00000000" />
 </div>
 
 ---
