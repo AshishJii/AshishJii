@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishJii&theme=github-dark-blue&hide_border=true&background=00000000" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api?username=AshishJii&hide_rank=false&custom_title=How%20Did%20We%20Get%20Here%3F&include_all_commits=true&theme=dark_github&hide_border=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ashish+Verma;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast" />
 </div>
 
@@ -127,15 +122,13 @@ About_Me = [
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishJii&theme=github-dark-blue&hide_border=true&background=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishJii&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AshishJii&hide_rank=false&custom_title=How%20Did%20We%20Get%20Here%3F&include_all_commits=true&theme=dark_github&hide_border=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishJii&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
 </div>
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AshishJii)](https://github.com/stats-organization/github-stats-extended)
-
 
 ---
 
